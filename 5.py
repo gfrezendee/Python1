@@ -1,0 +1,5 @@
+a=int(input("Insira um valor para 'a': "))
+b=int(input("Insira um valor para 'b': "))
+c=int(input("Insira um valor para 'c': "))
+print((-b+(((b*b)-4*a*c)**(1/2)))/(2*a))
+print((-b-(((b*b)-4*a*c)**(1/2)))/(2*a))

@@ -1,0 +1,6 @@
+a=int(input("Insira o primeiro numero inteiro: "))
+b=int(input("Insira o segundo numero inteiro: "))
+print(f"A soma dos valores é {a+b}")
+print(f"A diferença dos valores é {a-b}")
+print(f"O produto dos valores é {a*b}")
+print(f"A divisão dos valores é {a/b}")
